@@ -25,7 +25,7 @@ Here’s a preview animation:
 
 
 
-You can view the live demo [here](https://your-demo-link-here) *(replace with real link)*.
+You can view the live demo [here](https://joaovidreiro.wuaze.com/BlendFooter/index.html) *(replace with real link)*.
 
 ---
 
