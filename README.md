@@ -20,9 +20,10 @@ A redesigned footer component with a smooth blending / animated effect — built
 
 Here’s a preview animation:
 
-```markdown
 ![BlendFooter Animation](public/preview.gif)
-```
+
+
+
 
 You can view the live demo [here](https://your-demo-link-here) *(replace with real link)*.
 
